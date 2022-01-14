@@ -1,11 +1,21 @@
 ## GitBash
 
+git init = criar novo repositório
+git clone git@github.com:leocomelli/ = clonar repositório
+
 cd .. = retroceder um nível
 
 ls = listar 
 
-git add .
+git add . = adicionar todos os arquivos/diretórios
 git add -A
+
+git pull = atualizar os arquivos no branch atual
+
+git add arquivo_x / diretorio_y = Adicionar um arquivo/diretório específico
+
+git rm arquivo_x = remove arquivo
+git rm -r = remove diretorio
 
 git commit -m "..." = enviar novo arquivo bara o GitHub
 -m = para inserir memnsagem
