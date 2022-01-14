@@ -1,0 +1,5 @@
+## GitBash
+
+cd .. = retroceder um nível
+
+ls = listar 
