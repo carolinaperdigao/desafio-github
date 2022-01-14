@@ -1,0 +1,13 @@
+## GitBash
+
+cd .. = retroceder um nível
+
+ls = listar 
+
+git add .
+git add -A
+
+git commit -m "..." = enviar novo arquivo bara o GitHub
+-m = para inserir memnsagem
+
+git push origin main = enviar pra nuvem todos os commits locais
